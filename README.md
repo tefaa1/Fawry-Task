@@ -56,6 +56,7 @@ model/
   ├── ExpirableAndShippableProduct.java
   ├── CartItem.java
   ├── Cart.java
+  ├── Shippable.java
   └── Customer.java
 
 service/
@@ -65,19 +66,12 @@ service/
 Main.java
 ```
 
-## Run Examples
-
-The `Main` class contains example test cases including:
-
-- Adding valid/invalid products
-- Checking out with expired items
-- Insufficient balance
-- Empty cart
-- Successful checkout
-
----
-
 ## Notes
 
 - The code uses basic OOP principles: inheritance, interfaces, encapsulation.
 - All edge cases are handled with exceptions and validations.
+
+## ScreenShots of running
+
+![Capture0](https://github.com/user-attachments/assets/8667febd-813a-4190-bec0-b2c7f168055f)
+
